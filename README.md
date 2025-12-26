@@ -1,3 +1,2 @@
 # Book_recommender
-Recommends books based on ratings and name similarity
-Uses content based filtering, collaborative filtering & Matrix factorization
+Recommends books based on ratings and name similarity "\n"Uses content based filtering, collaborative filtering & Matrix factorization
